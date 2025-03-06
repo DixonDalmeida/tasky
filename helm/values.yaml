@@ -2,7 +2,7 @@ replicaCount: 1
 
 image:
   repository: wizdemoacr000897.azurecr.io/dixondalmeida/tasky
-  tag: "latest"
+  tag: "main"
   pullPolicy: IfNotPresent
 
 serviceAccount:
